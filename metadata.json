@@ -1,0 +1,6 @@
+{
+  "name": "Banking Transaction Intelligence Dashboard",
+  "description": "Advanced time-series analytics, temporal heatmaps, statistical anomaly detection, forecasting, and branch intelligence for enterprise banking transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
